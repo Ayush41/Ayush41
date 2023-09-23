@@ -4,7 +4,7 @@
 - Working on Flutter for native app development 
 - 💞️ I’m looking to collaborate on ... Javascript
 - 📫 How to reach me:- instagram :- @ayush_cr76
-
+- 💯 Merging Development with OpenAI, Web3.0 & Marketing. 
 <!---
 Ayush41/Ayush41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
