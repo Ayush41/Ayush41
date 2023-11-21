@@ -8,7 +8,7 @@
 
 
 
-- 👋 Hi, I’m @Ayush41
+- 👋 Hi, I’m Ayush Raj a developerf from India
 - 👀 I’m interested in Javascript, Python,Crpto, Metaverse
 - 🌱 I’m currently learning ...Web Development (MERN stack)
 - Working on Flutter for native app development 
