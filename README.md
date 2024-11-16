@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ayush Raj a developer from India<br>👀 I’m interested in Javascript, Python,Crpto, Metaverse<br>🌱 I’m currently learning ...Web Development (MERN stack)<br>Working on Flutter for native app development<br>💞️ I’m looking to collaborate on ... Javascript<br>💯 Merging Development with OpenAI, Web3.0 & Marketing.
+👋 Hi, I’m Ayush Raj a developer from India<br>👀 I’m interested in Javascript, Python,Crpto, Metaverse<br>🌱 I’m currently learning ...Web Development (MERN stack)<br>Working on native app development<br>💞️ I’m looking to collaborate on ... Javascript<br>💯 Merging Development with OpenAI & Web3.0.
 
 [![](https://visitcount.itsvg.in/api?id=ayush41&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
