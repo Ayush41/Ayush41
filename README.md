@@ -5,6 +5,19 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=ayush41&label=PROFILE+VIEWS) -->
 
+## 🛠️ Professional Skills:
+
+- **Web Developer**
+- **Google Cloud Certified Professional ML Engineer**
+- **Cloud DevOps and Data Guy**
+- **Data Analysis/Science and Data Engineering**
+- **Working with Microsoft Azure & Google Cloud**
+- **Building Data Pipelines on Cloud handling Big Data**
+
+## 🌟 Fun Fact:
+
+I’m a Jack of All Trades, familiar with almost every tech stack and technology out there.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_cr76) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-raj-bhatt-0685051a9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayush_cr76) 
 
