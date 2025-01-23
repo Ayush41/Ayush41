@@ -1,10 +1,41 @@
-# 💫 About Me:
-👋 Hi, I’m Ayush Raj a developer from India<br>👀 I’m interested in Javascript, Python,Crpto, Metaverse<br>🌱 I’m currently learning ...Web Development (MERN stack)<br>Working on native app development<br>💞️ I’m looking to collaborate on ... Javascript<br> 🚀 Passionate developer merging the worlds of Web3.0 and AI, one line of code at a time.
+# 💫 About Me
+
+👋 **Hi, I’m Ayush Raj,** a passionate developer from India, blending the realms of **Web3.0 and AI,** one line of code at a time.  
+
+## 👀 Interests  
+- **JavaScript**  
+- **Python**
+- 
+- **Crypto & Metaverse**  
+
+## 🌱 Currently Learning  
+- **MERN Stack Web Development**  
+- **Native App Development**  
+
+## 💞️ Looking to Collaborate On  
+- **Open-source projects that solve real-world problems**  
+- **Innovative AI and Web3.0 solutions**  
+
+🚀 Let's innovate and build something amazing together!  
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ayush41&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=ayush41&label=PROFILE+VIEWS) -->
+## 🛠️ Professional Skills:
 
+- **Web Developer**
+- **Google Cloud Certified Professional ML Engineer**
+- **Cloud DevOps and Data Guy**
+- **Data Analysis/Science and Data Engineering**
+
+
+## 🌟 Fun Fact:
+I’m a Jack of All Trades, familiar with almost every tech stack and technology out there.
+
+## 🎉 Personal Achievements:
+
+- I can solve a Rubik's cube in 22 seconds and also play the flute 🎶
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_cr76) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-raj-bhatt-0685051a9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayush_cr76) 
 
