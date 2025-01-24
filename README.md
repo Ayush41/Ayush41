@@ -22,7 +22,7 @@
 
 ## 🌟 Fun Fact:
 
-I’m a Jack of All Trades, familiar with almost every tech stack and technology out there.
+**I’m a Jack of All Trades, familiar with almost every tech stack and technology out there.**
 
 
 
