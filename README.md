@@ -1,15 +1,8 @@
-# 💫 About Me:
-👋 Hi, I’m Ayush Raj a developer from India<br>👀 I’m interested in Javascript, Python,Crpto, Metaverse<br>🌱 I’m currently learning ...Web Development (MERN stack)<br>Working on native app development<br>💞️ I’m looking to collaborate on ... Javascript<br> 🚀 Passionate developer merging the worlds of Web3.0 and AI, one line of code at a time.
+<h1 align="center">Hi 👋, I'm Ayush Raj Bhatt</h1>
 
-
-## 💞️ Looking to Collaborate On  
-- **Open-source projects that solve real-world problems**  
-- **Innovative AI and Web3.0 solutions**
-- **Data Analysis/Science or Data Engineering Projects**
-
-<!-- [![](https://visitcount.itsvg.in/api?id=ayush41&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
-
-<!-- ![](https://komarev.com/ghpvc/?username=ayush41&label=PROFILE+VIEWS) -->
+<!-- # 💫 About Me: -->
+<!-- 👋 Hi, I’m Ayush Raj a developer from India<br>👀 I’m interested in Javascript, Python,Crpto, Metaverse<br>🌱 I’m currently learning ...Web Development (MERN stack)<br>Working on native app development<br>💞️ I’m looking to collaborate on ... Javascript<br> 🚀 Passionate developer merging the worlds of Web3.0 and AI, one line of code at a time. -->
+<h3 align="center">A passionate developer from India</h3>
 
 ## 🛠️ Professional Skills:
 
@@ -19,6 +12,18 @@
 - **Data Analysis/Science and Data Engineering**
 - **Working with Microsoft Azure & Google Cloud**
 - **Building Data Pipelines on Cloud handling Big Data**
+
+
+## 💞️ Looking to Collaborate On  
+- **Open-source projects that solve real-world problems**  
+- **Innovative AI and Web3.0 solutions**
+- **Data Analysis/Science or Data Engineering Projects**
+
+- 📫 How to reach me **bhattayushraj@gmail.com**
+
+<!-- [![](https://visitcount.itsvg.in/api?id=ayush41&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
+
+<!-- ![](https://komarev.com/ghpvc/?username=ayush41&label=PROFILE+VIEWS) -->
 
 ## 🌟 Fun Fact:
 
