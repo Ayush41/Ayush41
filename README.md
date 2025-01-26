@@ -6,7 +6,7 @@
 
 ## 🛠️ Professional Skills:
 
-- **Web Developer**
+- **Full-Stack Developer**
 - **Google Cloud Certified Professional ML Engineer**
 - **Cloud DevOps and Data Guy**
 - **Data Analysis/Science and Data Engineering**
