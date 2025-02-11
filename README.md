@@ -12,7 +12,7 @@
 - **Data Analysis/Science and Data Engineering**
 - **Working with Microsoft Azure & Google Cloud**
 - **Building Data Pipelines on Cloud handling Big Data**
-
+- **Working on Rabbit-AI**
 
 ## 💞️ Looking to Collaborate On  
 - **Open-source projects that solve real-world problems**  
