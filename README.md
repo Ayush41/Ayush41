@@ -56,7 +56,7 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ayush41&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
-[![An image of @ayush41's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush41)](https://holopin.io/@ayush41)
+<!-- [![An image of @ayush41's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush41)](https://holopin.io/@ayush41) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayush41&theme=radical&no-frame=false&no-bg=true&margin-w=4)
