@@ -60,6 +60,18 @@ I’m a developer passionate about building data-centric and AI-powered systems,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush41&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush41&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://raw.githubusercontent.com/ayush41/ayush41/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush41/ayush41/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush41/ayush41/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayush41/ayush41/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!-- [![](https://visitcount.itsvg.in/api?id=ayush41&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- [![An image of @ayush41's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush41)](https://holopin.io/@ayush41) -->
