@@ -2,7 +2,13 @@
 
 <!-- # 💫 About Me: -->
 <!-- 👋 Hi, I’m Ayush Raj a developer from India<br>👀 I’m interested in Javascript, Python,Crpto, Metaverse<br>🌱 I’m currently learning ...Web Development (MERN stack)<br>Working on native app development<br>💞️ I’m looking to collaborate on ... Javascript<br> 🚀 Passionate developer merging the worlds of Web3.0 and AI, one line of code at a time. -->
-<h3 align="center">A passionate developer from India</h3>
+<!-- <h3 align="center">A passionate developer from India</h3> -->
+<br>
+
+🚀 **Builder | AI & FullStack Developer | Open-Source Enthusiast**
+I’m a developer passionate about building data-centric and AI-powered systems, working across machine learning, data science, and full-stack engineering. I focus on transforming data into scalable, production-ready solutions while learning by building and contributing to open source.
+
+---
 
 ## 🛠️ Professional Skills:
 
@@ -62,3 +68,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=ayush41&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+⭐ *If you like my work, consider starring the repositories!*
+
