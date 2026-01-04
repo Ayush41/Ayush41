@@ -40,13 +40,46 @@ I’m a developer passionate about building data-centric and AI-powered systems,
 
 <p align="center"> 
   Profile Views<br>
-<!--   <img src="https://profile-counter.glitch.me/PranavBarthwal/count.svg" /> <br> -->
-  <img src="https://profile-counter.glitch.me/ayush41/count.svg" />
+<img src="https://profile-counter.glitch.me/PranavBarthwal/count.svg" /> <br> 
+<img src="https://profile-counter.glitch.me/ayush41/count.svg" />
 </p>
 
-<!-- ![](https://komarev.com/ghpvc/?username=ayush41&label=PROFILE+VIEWS) -->
+ ![](https://komarev.com/ghpvc/?username=ayush41&label=PROFILE+VIEWS) 
 
-# 💻 Tech Stack
+<h2 align="center"> 💻 Tech Stack</h2>
+
+### 🗣️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,go,html,cpp,solidity" />
+</p>
+
+### 🤖 AI, ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch,pandas,numpy,matplotlib" />
+</p>
+
+### 🚀 Backend & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postman" />
+</p>
+
+### 💄 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,gcp,azure,heroku,netlify,linode" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,nginx,apache" />
+</p>
+
+
+<!-- # 💻 Tech Stack
 
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -101,7 +134,10 @@ I’m a developer passionate about building data-centric and AI-powered systems,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
 
-<!--[![](https://visitcount.itsvg.in/api?id=ayush41&icon=5&color=0)](https://visitcount.itsvg.in)-->
+-->
+
+[![](https://visitcount.itsvg.in/api?id=ayush41&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayush41&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -112,20 +148,44 @@ I’m a developer passionate about building data-centric and AI-powered systems,
 
 ###
 
-<picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush41/ayush41/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush41/ayush41/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayush41/ayush41/output/pacman-contribution-graph.svg">
-</picture>
+</picture> 
 
 ###
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ayush41&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- [![An image of @ayush41's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush41)](https://holopin.io/@ayush41) -->
-
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayush41&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ayush41&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+
+## 🔗 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/ayush-raj-bhatt">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/ayush41">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
+  </a>
+  <a href="https://twitter.com/ayush_cr76">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"/>
+  </a>
+  <!-- <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord"/>
+  </a> -->
+  <a href="mailto:bhattayushraj@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
+  </a>
+</div>
+
+<!-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID) -->
+
+</div>
+
 
 ---
 ⭐ *If you like my work, consider starring the repositories!*
