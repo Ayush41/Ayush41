@@ -5,8 +5,10 @@
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 <br>
 
-🚀 **Builder | AI & FullStack Developer | Open-Source Enthusiast**
-I’m a developer passionate about building data-centric and AI-powered systems, working across machine learning, data science, and full-stack engineering. I focus on transforming data into scalable, production-ready solutions while learning by building and contributing to open source.
+🚀 **Builder | AI Research & Full-Stack Developer | Open-Source Enthusiast**
+
+Master’s student in **AI & Data Science (MCA)** with a strong interest in building data-centric and AI-powered systems. I work across machine learning, data science, and full-stack engineering, focusing on transforming data into scalable, production-ready solutions while learning by building and contributing to open source.
+
 
 ---
 
@@ -14,14 +16,14 @@ I’m a developer passionate about building data-centric and AI-powered systems,
 
 - **Full-Stack Developer**
 - **Google Cloud Certified Professional ML Engineer**
-- **Cloud DevOps and Data Guy**
+- **Cloud & DevOps Engineering** (CI/CD, scalable cloud infrastructure)
 - **Data Analysis/Science and Data Engineering**
 - **Building Data Pipelines on Cloud handling Big Data**
 
 ## 💞️ Looking to Collaborate On  
-- **Open-source projects that solve real-world problems**  
-- **Innovative AI and Web3.0 solutions**
-- **Data Analysis/Science or Data Engineering Projects**
+- **Open-source projects focused on real-world impact**
+- **Applied AI / ML systems and data-driven applications**
+- **Data analysis, data engineering, and ML infrastructure projects**
 
 - 📫 How to reach me **bhattayushraj@gmail.com**
 
@@ -38,11 +40,11 @@ I’m a developer passionate about building data-centric and AI-powered systems,
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_cr76) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-raj-bhatt-0685051a9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayush_cr76) 
 
-<p align="center"> 
+<!-- <p align="center"> 
   Profile Views<br>
 <img src="https://profile-counter.glitch.me/PranavBarthwal/count.svg" /> <br> 
 <img src="https://profile-counter.glitch.me/ayush41/count.svg" />
-</p>
+</p> -->
 
  ![](https://komarev.com/ghpvc/?username=ayush41&label=PROFILE+VIEWS) 
 
