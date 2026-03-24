@@ -15,6 +15,7 @@ Master’s student in **AI & Data Science (MCA)** with a strong interest in buil
 ## 🛠️ Professional Skills:
 
 - **Full-Stack Developer**
+- **AI Agentic Systems(End to End)**
 - **Google Cloud Certified Professional ML Engineer**
 - **Cloud & DevOps Engineering** (CI/CD, scalable cloud infrastructure)
 - **Data Analysis/Science and Data Engineering**
