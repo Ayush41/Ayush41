@@ -5,7 +5,7 @@
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 <br>
 
-🚀 **Builder | AI Research & Full-Stack Developer | Open-Source Enthusiast**
+🚀 **Builder | AI Research & Full-Stack Developer | Open-Source Dev**
 
 Master’s student in **AI & Data Science (MCA)** with a strong interest in building data-centric and AI-powered systems. I work across machine learning, data science, and full-stack engineering, focusing on transforming data into scalable, production-ready solutions while learning by building and contributing to open source.
 
